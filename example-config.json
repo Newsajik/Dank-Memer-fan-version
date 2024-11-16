@@ -1,10 +1,9 @@
 {
-	"token": "",
-	"defaultPrefix": "",
-	"version": "",
+	"token": "MTMwNzIwODMxNjM1NDgyMjI1Ng.Gytg0v.n285K5nBtwqA9AlUK24nN5NKNlgnZkoC_s3v84",
+	"defaultPrefix": ".",
+	"version": "11",
 	"devs": [
-		"172571295077105664",
-		"284122164582416385"
+		"1238960664966594560",
 	],
 	"imgenKey": "",
 	"clientOptions": {
@@ -24,12 +23,12 @@
 	},
 	"webhooks": {
 		"shard": {
-			"id": "",
-			"token": ""
+			"id": "1307208316354822256",
+			"token": "MTMwNzIwODMxNjM1NDgyMjI1Ng.Gytg0v.n285K5nBtwqA9AlUK24nN5NKNlgnZkoC_s3v84"
 		},
 		"cluster": {
-			"id": "",
-			"token": ""
+			"id": "1307208316354822256",
+			"token": "MTMwNzIwODMxNjM1NDgyMjI1Ng.Gytg0v.n285K5nBtwqA9AlUK24nN5NKNlgnZkoC_s3v84"
 		}
 	},
 	"mashape": "",
@@ -44,8 +43,8 @@
 		"access_token_secret": ""
 	},
 	"datadog": {
-		"APIkey": "",
-		"APPkey": ""
+		"APIkey": "10",
+		"APPkey": "1307208316354822256"
 	},
 	"annoy": {
 		"repetitions": 80,
@@ -54,6 +53,6 @@
 	"urls": {
 		"imgen": "",
 		"reddit": "",
-		"invite": ""
+		"invite": "https://discord.com/oauth2/authorize?client_id=1307208316354822256"
 	}
 }
